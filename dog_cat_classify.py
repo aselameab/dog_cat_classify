@@ -1,6 +1,6 @@
 '''
 purpose of program is to classify an image as containing a cat or a dog
-
+created by - ammanuel selameab, jan 2019
 '''
 
 import cv2
